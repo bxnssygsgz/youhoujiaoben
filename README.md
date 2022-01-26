@@ -20,11 +20,10 @@
 ### S1
 
 1. [列出S1一条帖子的所有内容](https://greasyfork.org/zh-CN/scripts/28810-%E5%88%97%E5%87%BAs1%E4%B8%80%E6%9D%A1%E5%B8%96%E5%AD%90%E7%9A%84%E6%89%80%E6%9C%89%E5%86%85%E5%AE%B9)
-2. [屏蔽赵小姐](https://greasyfork.org/zh-CN/scripts/34383-%E5%B1%8F%E8%94%BD%E8%B5%B5%E5%B0%8F%E5%A7%90)
 
 ### 知乎
 
-1. [Fuck ZhiHu Mobile Style](https://greasyfork.org/zh-CN/scripts/374771-zhihu-mobile-style): 日他娘的逼乎手机网页版 样式ver, 适配知乎电脑版到手机上, 要配合[Yandex浏览器](https://browser.yandex.com/mobile)和[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)使用
+1. [Fuck ZhiHu Mobile Style](https://greasyfork.org/zh-CN/scripts/374771-zhihu-mobile-style): 样式ver, 适配知乎电脑版到手机上, 要配合[Yandex浏览器](https://browser.yandex.com/mobile)和[User-Agent Switcher](https://chrome.google.com/webstore/detail/user-agent-switcher-for-c/djflhoibgkdhkhhcedjiklpkjnoahfmg)使用
 2. [ipcjs/make-do-with-zhihu-2](https://github.com/ipcjs/make-do-with-zhihu-2)：Fuck ZhiHu Mobile Style的扩展版，用起来更方便
 
 ### Others
@@ -37,7 +36,3 @@
 **注意**：要赞助`解除B站区域限制的服务器`，请直接点击脚本设置页面的“捐赠”链接（在服务器地址旁边）。如下赞助只针对脚本本身，不针对服务器。
 
 [赞助列表](donate/donation.jsonc)
-
-支付宝赞助二维码：
-
-![支付宝赞助二维码](donate/donate_by_alipay.png)
